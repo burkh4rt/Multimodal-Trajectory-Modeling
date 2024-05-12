@@ -1,9 +1,9 @@
 ## Multimodal Trajectory Modeling
 
 This repository provides code and anonymized data to accompany our paper
-"AI-guided early dementia prediction using unsupervised multimodal modeling of
-brain health trajectories" [^1]. In it, we propose and validate a mixture of
-state space models to perform unsupervised clustering of short trajectories.
+"Unsupervised multimodal modeling of cognitive and brain health trajectories
+for early dementia prediction" [^1]. In it, we propose and validate a mixture
+of state space models to perform unsupervised clustering of short trajectories.
 Within the state space framework, we let expensive-to-gather biomarkers
 correspond to hidden states and readily obtainable cognitive metrics correspond
 to measurements. Upon training with expectation maximization, we find that our
@@ -166,8 +166,8 @@ problems:
 
 [^1]:
     M. Burkhart, L. Lee, D. Vaghari, A. Toh, E. Chong, C. Chen, P. Tiňo, and Z.
-    Kourtzi, _AI-guided early dementia prediction using unsupervised multimodal
-    modeling of brain health trajectories,_ Sci. Rep. 14 (2024)
+    Kourtzi, _Unsupervised multimodal modeling of cognitive and brain health
+    trajectories for early dementia prediction,_ Sci. Rep. 14 (2024)
 
 [^2]:
     S. Chiappa and D. Barber, _Dirichlet Mixtures of Bayesian Linear Gaussian
