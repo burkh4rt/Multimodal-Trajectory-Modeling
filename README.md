@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/unsupervised-multimodal-trajectory-modeling.svg)](https://badge.fury.io/py/unsupervised-multimodal-trajectory-modeling)
+
 ## Multimodal Trajectory Modeling
 
 This repository provides code and anonymized data to accompany our paper
