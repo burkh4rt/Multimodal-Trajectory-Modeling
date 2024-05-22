@@ -167,19 +167,21 @@ problems:
    features may remediate numerical instability to some extent.
 
 [^1]:
-    M. Burkhart, L. Lee, D. Vaghari, A. Toh, E. Chong, C. Chen, P. Tiňo, and Z.
-    Kourtzi, _Unsupervised multimodal modeling of cognitive and brain health
-    trajectories for early dementia prediction,_ Sci. Rep. 14 (2024)
+    M. Burkhart, L. Lee, D. Vaghari, A. Toh, E. Chong, C. Chen, P. Tiňo, & Z.
+    Kourtzi,
+    [_Unsupervised multimodal modeling of cognitive and brain health trajectories for early dementia prediction_](https://doi.org/10.1038/s41598-024-60914-w),
+    Scientific Reports 14 (2024)
 
 [^2]:
-    S. Chiappa and D. Barber, _Dirichlet Mixtures of Bayesian Linear Gaussian
-    State-Space Models: a Variational Approach,_ Tech. rep. 161, Max Planck
-    Institute for Biological Cybernetics, 2007.
+    S. Chiappa & D. Barber, _Dirichlet Mixtures of Bayesian Linear Gaussian
+    State-Space Models: a Variational Approach_, Tech. rep. 161, Max Planck
+    Institute for Biological Cybernetics, 2007
 
 [^3]:
-    A. Dempster, N. Laird, and D. Rubin. _Maximum Likelihood from  
-    Incomplete Data via the EM Algorithm._ J. Roy. Stat. Soc. Ser. B (Stat.
-    Methodol.) 39 (1977).
+    A. Dempster, N. Laird, & D. Rubin, [_Maximum Likelihood from  
+    Incomplete Data via the EM Algorithm_](https://doi.org/10.1111/j.2517-6161.1977.tb01600.x),
+    Journal of the Royal Statistical Society: Series B (Methodological) 39
+    (1977)
 
 <!---
 
