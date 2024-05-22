@@ -1,4 +1,5 @@
 [![PyPI version](https://badge.fury.io/py/unsupervised-multimodal-trajectory-modeling.svg)](https://badge.fury.io/py/unsupervised-multimodal-trajectory-modeling)
+[![DOI](https://zenodo.org/badge/794104918.svg)](https://zenodo.org/doi/10.5281/zenodo.11244014)
 
 ## Multimodal Trajectory Modeling
 
